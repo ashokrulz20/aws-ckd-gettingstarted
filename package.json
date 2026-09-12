@@ -1,0 +1,13 @@
+{
+  "name": "fde-customer-deployment-value-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Recruiter-facing Forward Deployed AI customer deployment, readiness and value realization studio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
